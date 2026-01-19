@@ -113,9 +113,9 @@ I believe that **code quality, clarity, and understanding matter more than rushi
 
 ## 📫 Contact & Links
 
-- 📧 Email: yourmail@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/yourname  
-- 🧠 GitHub: You're already here 😄  
+- 📧 Email: duynien34@gmail.com
+- 💼 LinkedIn: [https://linkedin.com/in/yourname  ](https://www.linkedin.com/in/nguy%E1%BB%85n-nien-24835a259/)
+- 🧠 Facebook:https://web.facebook.com/nguyen.nien.133389/
 
 ---
 
