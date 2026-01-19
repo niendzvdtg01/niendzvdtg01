@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Nian 👨‍💻
+# 👋 Hi there, I'm Niên 👨‍💻
 
 Welcome to my GitHub profile!  
 I am an **Information Technology learner and aspiring Software Engineer**, passionate about **building software, understanding how systems work under the hood, and continuously improving through real projects**.
@@ -121,11 +121,7 @@ I believe that **code quality, clarity, and understanding matter more than rushi
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
 
 ## 🏁 Final Note
 
