@@ -10,7 +10,7 @@ I believe that **strong fundamentals + hands-on practice** are the key to becomi
 ## 🧑‍🎓 About Me
 
 - 🎓 IT student with a strong interest in **Software Engineering**
-- 🌏 Originally from **Vietnam**, currently living and studying in **Taiwan**
+- 🌏 Originally from **Vietnam**, currently living and studying in **Hanoi**
 - 💡 Interested in **Web Development, Application Development, Game Development, and Security**
 - 🧠 Focused on **problem-solving, system thinking, and clean code**
 - 🚀 Long-term goal: Become a **professional Software Engineer** in a tech company
