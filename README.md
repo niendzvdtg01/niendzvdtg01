@@ -1,5 +1,3 @@
-# ### `$ whoami`
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=59C2F7&width=500&lines=Hi+👋!+My+name+is+Nian;I'm+a+Software+Engineering+Student;I'm+a+Backend+%26+Full-Stack+Developer;I'm+Passionate+About+AI+%26+Cybersecurity)](https://git.io/typing-svg)
 
 ###
@@ -9,7 +7,7 @@
 ###
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=niendzvdtg01&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ###
