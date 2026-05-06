@@ -7,7 +7,7 @@
 ###
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=niendzvdtg01&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=niendzvdtg01&label=Visitors&color=blueviolet&style=for-the-badge" />
 </p>
 
 ###
