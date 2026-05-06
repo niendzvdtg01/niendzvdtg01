@@ -42,7 +42,7 @@ My goal is to become a professional Software Engineer specializing in scalable b
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 
-  <a href="mailto:your-email@gmail.com" target="_blank">
+  <a href="mailto:duynien34@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
 </div>
@@ -88,8 +88,6 @@ My goal is to become a professional Software Engineer specializing in scalable b
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
   <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo" />
-  <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
   <img width="12" />
@@ -101,9 +99,6 @@ My goal is to become a professional Software Engineer specializing in scalable b
   <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo" />
   <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
@@ -143,13 +138,11 @@ My goal is to become a professional Software Engineer specializing in scalable b
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niendzvdtg01&show_icons=true&theme=tokyonight" height="150" alt="stats graph" />
-  <br>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=niendzvdtg01&show_icons=true&theme=tokyonight" height="150"/>
 
-  <img src="https://nirzak-streak-stats.vercel.app/?user=niendzvdtg01&theme=tokyonight" height="150" alt="streak graph" />
-  <br>
+  <img src="https://streak-stats.demolab.com?user=niendzvdtg01&theme=tokyonight" height="150"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=niendzvdtg01&layout=compact&theme=tokyonight" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=niendzvdtg01&layout=compact&theme=tokyonight" height="150"/>
 </div>
 
 ###
