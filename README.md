@@ -16,13 +16,12 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Computer Science student passionate about Software Engineering
-- 💻 Interested in Backend Development, Full-Stack Applications, AI, and Cybersecurity
-- 🚀 Currently working with Golang, Flask, React, Node.js, and Android Development
-- 🎮 Interested in Game Development using Unity
-- 📚 Learning more about scalable systems, networking, and web security
-- 🌏 Vietnamese student currently studying abroad in Taiwan
-- ♟️ Enjoy playing chess and solving technical challenges
+- Computer Science student passionate about Software Engineering
+- Interested in Backend Development, Full-Stack Applications, AI, and Cybersecurity
+- Currently working with Java, Golang, Flask, React, Node.js, and Android Development
+- Interested in Game Development using Unity
+- Learning more about scalable systems, networking, and web security
+- Enjoy playing chess and solving technical challenges
 
 ###
 
@@ -79,6 +78,10 @@ My goal is to become a professional Software Engineer specializing in scalable b
 ## ⚙️ Backend & Database
 
 <div align="center">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-origional.svg" height="30" alt="java logo" />
+  <img width="12" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="golang logo" />
   <img width="12" />
 
@@ -140,13 +143,13 @@ My goal is to become a professional Software Engineer specializing in scalable b
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=niendzvdtg01&show_icons=true&theme=tokyonight" height="150" alt="stats graph" />
   <br>
 
-  <img src="https://nirzak-streak-stats.vercel.app/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="150" alt="streak graph" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=niendzvdtg01&theme=tokyonight" height="150" alt="streak graph" />
   <br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=niendzvdtg01&layout=compact&theme=tokyonight" height="150" alt="languages graph" />
 </div>
 
 ###
