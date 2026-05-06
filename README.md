@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" width="150" src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" />
+<img align="right" height="150" width="150" src="https://github.com/niendzvdtg01.png" />
 
 ###
 
