@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Nien%20Dang&fontSize=60&fontColor=59C2F7&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Backend%20%26%20Full-Stack%20Developer&descAlignY=60&descColor=a0aec0&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:1a1a2e,100:16213e&amp;height=200&amp;section=header&amp;text=Nien%20Dang&amp;fontSize=60&amp;fontColor=59C2F7&amp;fontAlignY=38&amp;desc=Software%20Engineering%20Student%20%7C%20Backend%20%26%20Full-Stack%20Developer&amp;descAlignY=60&amp;descColor=a0aec0&amp;animation=fadeIn" width="100%" alt="header"/>
 
 </div>
 
@@ -11,10 +11,10 @@
 <br/>
 
 <a href="https://github.com/niendzvdtg01">
-  <img src="https://komarev.com/ghpvc/?username=niendzvdtg01&label=Profile+Views&color=59C2F7&style=flat-square" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=niendzvdtg01&amp;label=Profile+Views&amp;color=59C2F7&amp;style=flat-square" alt="profile views"/>
 </a>
-&nbsp;
-<img src="https://img.shields.io/github/followers/niendzvdtg01?label=Followers&style=flat-square&color=59C2F7" alt="followers"/>
+&#160;
+<img src="https://img.shields.io/github/followers/niendzvdtg01?label=Followers&amp;style=flat-square&amp;color=59C2F7" alt="followers"/>
 
 </div>
 
@@ -22,7 +22,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" height="200" src="https://github.com/niendzvdtg01.png" style="border-radius: 50%; margin-left: 20px;"/>
+<img align="right" height="200" src="https://github.com/niendzvdtg01.png" alt="avatar"/>
 
 ```yaml
 name: Nien Dang
@@ -42,7 +42,7 @@ currently_learning:
   - Cloud Architecture
 
 hobbies:
-  - Chess ♟️
+  - Chess
   - Solving Technical Challenges
   - Open Source Contributing
 ```
@@ -53,14 +53,14 @@ hobbies:
 
 ## 🎯 Career Goal
 
-> Building **scalable backend systems**, **cloud-native applications**, and **AI-powered solutions**  
-> — contributing to meaningful open-source projects while deepening my expertise in cybersecurity.
+> Building **scalable backend systems**, **cloud-native applications**, and **AI-powered solutions** — contributing to meaningful open-source projects while deepening my expertise in cybersecurity.
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 🎨 Frontend
+
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -74,6 +74,7 @@ hobbies:
 </div>
 
 ### ⚙️ Backend & Databases
+
 <div align="center">
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -91,6 +92,7 @@ hobbies:
 </div>
 
 ### 🔧 DevOps & Tools
+
 <div align="center">
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -109,21 +111,20 @@ hobbies:
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=niendzvdtg01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=59C2F7&icon_color=59C2F7&text_color=c9d1d9&rank_icon=github" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=niendzvdtg01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=59C2F7&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=niendzvdtg01&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=59C2F7&amp;icon_color=59C2F7&amp;text_color=c9d1d9&amp;rank_icon=github" height="165" alt="GitHub stats"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=niendzvdtg01&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=59C2F7&amp;text_color=c9d1d9" height="165" alt="Top languages"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=niendzvdtg01&theme=tokyonight&hide_border=true&background=0d1117&ring=59C2F7&fire=FF6B6B&currStreakLabel=59C2F7" height="165"/>
+<img src="https://streak-stats.demolab.com?user=niendzvdtg01&amp;theme=tokyonight&amp;hide_border=true&amp;background=0d1117&amp;ring=59C2F7&amp;fire=FF6B6B&amp;currStreakLabel=59C2F7" height="165" alt="GitHub streak"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=niendzvdtg01&theme=tokyo-night&bg_color=0d1117&color=59C2F7&line=59C2F7&point=ffffff&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=niendzvdtg01&amp;theme=tokyo-night&amp;bg_color=0d1117&amp;color=59C2F7&amp;line=59C2F7&amp;point=ffffff&amp;hide_border=true" width="100%" alt="Activity graph"/>
 
 </div>
 
@@ -133,7 +134,7 @@ hobbies:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=niendzvdtg01&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=niendzvdtg01&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;column=7&amp;margin-w=4" width="100%" alt="GitHub trophies"/>
 
 </div>
 
@@ -145,26 +146,26 @@ hobbies:
 <tr>
 <td align="center" width="200">
 
-**🦫 Golang**  
-Scalable microservices & REST APIs
+**🦫 Golang**
+Scalable microservices &amp; REST APIs
 
 </td>
 <td align="center" width="200">
 
-**🔐 Security**  
-Web & network security fundamentals
+**🔐 Security**
+Web &amp; network security fundamentals
 
 </td>
 <td align="center" width="200">
 
-**🤖 AI Integration**  
+**🤖 AI Integration**
 LLMs in production software
 
 </td>
 <td align="center" width="200">
 
-**📐 DSA**  
-Competitive programming & algorithms
+**📐 DSA**
+Competitive programming &amp; algorithms
 
 </td>
 </tr>
@@ -177,15 +178,15 @@ Competitive programming & algorithms
 <div align="center">
 
 <a href="https://github.com/niendzvdtg01" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" height="40" alt="GitHub"/>
 </a>
-&nbsp;
+&#160;
 <a href="https://www.linkedin.com/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" height="40" alt="LinkedIn"/>
 </a>
-&nbsp;
+&#160;
 <a href="mailto:duynien34@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" height="40" alt="Gmail"/>
 </a>
 
 </div>
@@ -194,7 +195,7 @@ Competitive programming & algorithms
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:16213e,50:1a1a2e,100:0d1117&amp;height=120&amp;section=footer" width="100%" alt="footer"/>
 
 *"Code, Learn, Improve, Repeat 🚀"*
 
