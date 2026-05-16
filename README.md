@@ -25,10 +25,10 @@
 <img align="right" height="200" src="https://github.com/niendzvdtg01.png" style="border-radius: 50%; margin-left: 20px;"/>
 
 ```yaml
-name: Nien Dang
+name: Nien Nguyen
 pronouns: he/him
 education: Computer Science
-role: Software Engineering Student
+role: Software Engineering 
 
 focus:
   - Backend Development (Golang, Java Spring Boot)
